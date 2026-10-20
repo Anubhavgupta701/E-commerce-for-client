@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#E7D3B8"/>
+  <g transform="rotate(-6 400 480)">
+    <ellipse cx="400" cy="430" rx="230" ry="300" fill="#3B2418" opacity="0.16"/>
+    <ellipse cx="400" cy="430" rx="160" ry="220" fill="none" stroke="#3B2418" stroke-width="3" opacity="0.55"/>
+    <ellipse cx="400" cy="430" rx="105" ry="150" fill="#3B2418" opacity="0.22"/>
+    <line x1="400" y1="180" x2="400" y2="680" stroke="#3B2418" stroke-width="2" opacity="0.4"/>
+    <line x1="240" y1="430" x2="560" y2="430" stroke="#3B2418" stroke-width="2" opacity="0.4"/>
+  </g>
+  <circle cx="400" cy="430" r="10" fill="#3B2418" opacity="0.8"/>
+  <text x="400" y="830" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#3B2418">Leather Wallet</text>
+  <text x="400" y="880" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="6" fill="#6B422D">KHAAS</text>
+  <rect x="360" y="905" width="80" height="2" fill="#A87952"/>
+</svg>

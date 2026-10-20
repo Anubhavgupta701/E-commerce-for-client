@@ -1,0 +1,2209 @@
+{
+  "settings": {
+    "brandName": "Mahi Green World",
+    "tagline": "Nature's best, sustainably crafted.",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "supportEmail": "care@mahigreenworld.com",
+    "supportPhone": "+91 99999 99999",
+    "shippingFlatPaise": 9900,
+    "freeShippingAbovePaise": 199900,
+    "taxPercent": 0,
+    "codEnabled": true,
+    "qrEnabled": true,
+    "qrUpiId": "mahigreenworld@upi",
+    "qrPayeeName": "Mahi Green World",
+    "qrInstructions": "Pay the exact order amount to the UPI ID below using any UPI app (GPay / PhonePe / Paytm). After paying, submit your UTR / transaction reference ID here. Your order ships only after our team verifies the payment.",
+    "announcement": "🌱 Free shipping across India on orders above ₹1,999 · Eco-friendly & Plastic-Free Delivery",
+    "returnDays": 7
+  },
+  "users": [
+    {
+      "id": "user_add0693e03a856481e",
+      "name": "Store Owner",
+      "email": "owner@khaas.in",
+      "phone": "919999999999",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "username": "superadmin",
+      "passwordHash": "6f4327535deeb860a800a20d9b5dc997:c423538ac465893c0e565f2f11210dfa4a1e61d267c395503c8ad0882d2dc35d61697ab9aaadbd89585397854ab23002417b8cd78b2df76501ce1686106d8695"
+    },
+    {
+      "id": "user_c7bd4c54d635c546d9",
+      "name": "Catalog Manager",
+      "email": "catalog@khaas.in",
+      "phone": "919888888888",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "username": "admin",
+      "passwordHash": "07a58bba0373e1aef9bdea03026bc42f:9a5bcaf7cbf3f135aad53d08b740d1fa86530709ffbf9a277f545a9a6a73bb8d678be621b82b8180795582e1cdf8b8a3bf69ed0f787313185beb01f22ee51073"
+    },
+    {
+      "id": "user_3b3a1e53ee1e4c3b31",
+      "firebaseUid": "DhF5TfhlAWguxnxxqx9w1nMyRj13",
+      "name": "Dsa",
+      "email": "dsa611459@gmail.com",
+      "phone": "",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:36:19.523Z"
+    },
+    {
+      "id": "user_f62c2bc59fe6b3925b",
+      "firebaseUid": "wHYFJRK9fNhon5aM3dLmr0W3VVw1",
+      "name": "Anubhav gupta",
+      "email": "anubhavff6@gmail.com",
+      "phone": "",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:47:36.066Z"
+    },
+    {
+      "id": "user_d39f1b9fe105d391aa",
+      "firebaseUid": "PNdswiAJw5PXz9Dpg7C5td0Oxeh2",
+      "name": "Anubhav gupta",
+      "email": "officialag701@gmail.com",
+      "phone": "",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T17:05:41.793Z"
+    },
+    {
+      "id": "user_33b433f9f8567aff4f",
+      "name": "Priyanshu Admin",
+      "email": "priyanshu_test@khaas.in",
+      "phone": "",
+      "username": "priyanshu_test",
+      "passwordHash": "c1a7089b83bb1ad043d8a50a0bbc288d:1d2071a19f947e6f0161f1f00ce1b4b2e82faac6fb0d092a38d1c988d0f23ae52ab56d36fa604015f1547f7a43e119349624e2b59f2da990ec77ad1f55dc2206",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T19:23:11.922Z"
+    }
+  ],
+  "roleAssignments": [
+    {
+      "id": "ra_superadmin_01",
+      "userId": "user_add0693e03a856481e",
+      "role": "SUPERADMIN",
+      "grantedBy": "system",
+      "createdAt": "2026-10-19T17:30:35.141Z"
+    },
+    {
+      "id": "ra_admin_01",
+      "userId": "user_c7bd4c54d635c546d9",
+      "role": "ADMIN",
+      "grantedBy": "user_add0693e03a856481e",
+      "createdAt": "2026-10-19T17:30:35.141Z"
+    }
+  ],
+  "otpChallenges": [],
+  "sessions": [
+    {
+      "token": "16236c4d59e4ba009635b95106c04b95bb5933ebfe9248a11a2f7e16efb4db80",
+      "userId": "user_d39f1b9fe105d391aa",
+      "createdAt": "2026-10-19T17:05:41.793Z",
+      "expiresAt": "2026-10-26T17:05:41.793Z",
+      "ip": "::1"
+    },
+    {
+      "token": "0928e97a978ea5010c0a209a1131bcb6597f684808ae3f486235b581536c5e20",
+      "userId": "user_add0693e03a856481e",
+      "createdAt": "2026-10-19T17:33:10.044Z",
+      "expiresAt": "2026-10-26T17:33:10.045Z",
+      "ip": "::1"
+    },
+    {
+      "token": "44ef5d0ee7a20ef0ce1c993bd9c0a216903f2659322aef5c22ad7949b2d530f2",
+      "userId": "user_c7bd4c54d635c546d9",
+      "createdAt": "2026-10-19T17:33:10.096Z",
+      "expiresAt": "2026-10-26T17:33:10.096Z",
+      "ip": "::1"
+    },
+    {
+      "token": "110a5cf45487a620b85be5ca518cda6588f427915c7b2a09fe46eea93c955a62",
+      "userId": "user_d39f1b9fe105d391aa",
+      "createdAt": "2026-10-19T18:32:35.772Z",
+      "expiresAt": "2026-10-26T18:32:35.772Z",
+      "ip": "::1"
+    },
+    {
+      "token": "eef49edfadad6cc4aff19ff5be38c84c44f1fa99434ec804d75ed0d147daed56",
+      "userId": "user_add0693e03a856481e",
+      "createdAt": "2026-10-19T18:55:41.194Z",
+      "expiresAt": "2026-10-26T18:55:41.194Z",
+      "ip": "::1"
+    },
+    {
+      "token": "7a5f8ac7151b8fad628cdbbc13d9f8e474e6bd98563a6f625c545ee3c7fcc7d8",
+      "userId": "user_add0693e03a856481e",
+      "createdAt": "2026-10-19T19:02:02.788Z",
+      "expiresAt": "2026-10-26T19:02:02.788Z",
+      "ip": "::1"
+    },
+    {
+      "token": "4357f7e17b771b6260c1312982344ad8a328717898d082f5b8c24f04058c46cb",
+      "userId": "user_c7bd4c54d635c546d9",
+      "createdAt": "2026-10-19T19:08:36.337Z",
+      "expiresAt": "2026-10-26T19:08:36.337Z",
+      "ip": "::1"
+    },
+    {
+      "token": "31e9f4057ca1470d14c9e5d4cdaa7178bbdde1c4d46fc07c2b8a089afade277b",
+      "userId": "user_add0693e03a856481e",
+      "createdAt": "2026-10-19T19:23:11.821Z",
+      "expiresAt": "2026-10-26T19:23:11.821Z",
+      "ip": "::1"
+    },
+    {
+      "token": "867d64524cee44f6b6037bd9f2d81230d9018353f629457c98d1c7f6f18c9485",
+      "userId": "user_33b433f9f8567aff4f",
+      "createdAt": "2026-10-19T19:23:11.988Z",
+      "expiresAt": "2026-10-26T19:23:11.988Z",
+      "ip": "::1"
+    },
+    {
+      "token": "5ab3f31d0826a76fe57ce4353ac9cd613719e6f2a67aeb9a6b23548a7663df34",
+      "userId": "user_33b433f9f8567aff4f",
+      "createdAt": "2026-10-19T19:23:12.122Z",
+      "expiresAt": "2026-10-26T19:23:12.122Z",
+      "ip": "::1"
+    },
+    {
+      "token": "b6c8df1dd4bc6e004512f33522ee6273d23c78a6a40c512ac2907165224c45d2",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "createdAt": "2026-10-19T19:25:59.019Z",
+      "expiresAt": "2026-10-26T19:25:59.019Z",
+      "ip": "::1"
+    },
+    {
+      "token": "822a84c77458320c77af552302ac8b778f20090f85df2a7cd1dcd6e7fafd60bb",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "createdAt": "2026-10-20T06:14:21.285Z",
+      "expiresAt": "2026-10-27T06:14:21.285Z",
+      "ip": "::1"
+    },
+    {
+      "token": "8372eb9ea879f593dcc00205a11bb9e901537992363bded70aa5598fb29ad80d",
+      "userId": "user_c7bd4c54d635c546d9",
+      "createdAt": "2026-10-20T06:16:23.141Z",
+      "expiresAt": "2026-10-27T06:16:23.142Z",
+      "ip": "::1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat_100887c70e2f8b00bb",
+      "name": "Apparel",
+      "slug": "apparel",
+      "active": true,
+      "sort": 1
+    },
+    {
+      "id": "cat_53907a68a247212252",
+      "name": "Home & Living",
+      "slug": "home",
+      "active": true,
+      "sort": 2
+    },
+    {
+      "id": "cat_5f312665ff3924a73e",
+      "name": "Accessories",
+      "slug": "accessories",
+      "active": true,
+      "sort": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "prod_0a9281411d55c41183",
+      "title": "Everyday Linen Shirt",
+      "slug": "everyday-linen-shirt",
+      "description": "Breathable pure-linen shirt with a relaxed fit, corozo buttons and a clean camp collar. Pre-washed for softness.",
+      "brand": "Khaas",
+      "categoryId": "cat_100887c70e2f8b00bb",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/linen-shirt.jpg",
+          "alt": "Everyday Linen Shirt",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "EVERYD-001",
+          "attributes": {
+            "size": "S"
+          },
+          "pricePaise": 189900,
+          "compareAtPaise": 249900,
+          "stock": 40
+        },
+        {
+          "sku": "EVERYD-002",
+          "attributes": {
+            "size": "M"
+          },
+          "pricePaise": 189900,
+          "compareAtPaise": 249900,
+          "stock": 40
+        },
+        {
+          "sku": "EVERYD-003",
+          "attributes": {
+            "size": "L"
+          },
+          "pricePaise": 189900,
+          "compareAtPaise": 249900,
+          "stock": 40
+        },
+        {
+          "sku": "EVERYD-004",
+          "attributes": {
+            "size": "XL"
+          },
+          "pricePaise": 189900,
+          "compareAtPaise": 249900,
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "id": "prod_0da99787fc5ebff2ca",
+      "title": "Handloom Cotton Kurta",
+      "slug": "handloom-cotton-kurta",
+      "description": "Handloom cotton kurta in a warm earthy tone, side slits and wooden buttons. Made by artisan clusters.",
+      "brand": "Khaas",
+      "categoryId": "cat_100887c70e2f8b00bb",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/kurta.jpg",
+          "alt": "Handloom Cotton Kurta",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "HANDLO-001",
+          "attributes": {
+            "size": "S"
+          },
+          "pricePaise": 149900,
+          "compareAtPaise": 199900,
+          "stock": 35
+        },
+        {
+          "sku": "HANDLO-002",
+          "attributes": {
+            "size": "M"
+          },
+          "pricePaise": 149900,
+          "compareAtPaise": 199900,
+          "stock": 35
+        },
+        {
+          "sku": "HANDLO-003",
+          "attributes": {
+            "size": "L"
+          },
+          "pricePaise": 149900,
+          "compareAtPaise": 199900,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "id": "prod_ce66ed4a6e65dff93f",
+      "title": "Raw Denim Jeans",
+      "slug": "raw-denim-jeans",
+      "description": "14oz Japanese-style raw denim, straight fit, chain-stitched hems. Ages beautifully with wear.",
+      "brand": "Khaas",
+      "categoryId": "cat_100887c70e2f8b00bb",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/denim.jpg",
+          "alt": "Raw Denim Jeans",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "RAW-DE-001",
+          "attributes": {
+            "size": "30"
+          },
+          "pricePaise": 229900,
+          "compareAtPaise": 299900,
+          "stock": 30
+        },
+        {
+          "sku": "RAW-DE-002",
+          "attributes": {
+            "size": "32"
+          },
+          "pricePaise": 229900,
+          "compareAtPaise": 299900,
+          "stock": 30
+        },
+        {
+          "sku": "RAW-DE-003",
+          "attributes": {
+            "size": "34"
+          },
+          "pricePaise": 229900,
+          "compareAtPaise": 299900,
+          "stock": 30
+        }
+      ]
+    },
+    {
+      "id": "prod_738a393093f2cb6583",
+      "title": "Merino Wool Sweater",
+      "slug": "merino-wool-sweater",
+      "description": "Featherlight merino crew-neck sweater, fully-fashioned knit. Naturally temperature-regulating.",
+      "brand": "Khaas",
+      "categoryId": "cat_100887c70e2f8b00bb",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/sweater.jpg",
+          "alt": "Merino Wool Sweater",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "MERINO-001",
+          "attributes": {
+            "size": "M"
+          },
+          "pricePaise": 279900,
+          "compareAtPaise": 349900,
+          "stock": 25
+        },
+        {
+          "sku": "MERINO-002",
+          "attributes": {
+            "size": "L"
+          },
+          "pricePaise": 279900,
+          "compareAtPaise": 349900,
+          "stock": 25
+        },
+        {
+          "sku": "MERINO-003",
+          "attributes": {
+            "size": "XL"
+          },
+          "pricePaise": 279900,
+          "compareAtPaise": 349900,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "id": "prod_8bfec684ab41196b42",
+      "title": "Stoneware Dinner Set (16 pc)",
+      "slug": "stoneware-dinner-set-16-pc",
+      "description": "Reactive-glaze stoneware dinner set for four — dinner plates, side plates, bowls and mugs in a warm sand finish.",
+      "brand": "Khaas Home",
+      "categoryId": "cat_53907a68a247212252",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/dinner-set.jpg",
+          "alt": "Stoneware Dinner Set (16 pc)",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "STONEW-001",
+          "attributes": {
+            "set": "16 piece"
+          },
+          "pricePaise": 399900,
+          "compareAtPaise": 549900,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "prod_85c5cd979b56cf70d7",
+      "title": "Brass Table Lamp",
+      "slug": "brass-table-lamp",
+      "description": "Spun-brass table lamp with a handwoven cane shade. Warm 2700K glow, inline dimmer switch.",
+      "brand": "Khaas Home",
+      "categoryId": "cat_53907a68a247212252",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/lamp.jpg",
+          "alt": "Brass Table Lamp",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "BRASS--001",
+          "attributes": {
+            "finish": "Antique brass"
+          },
+          "pricePaise": 249900,
+          "compareAtPaise": 329900,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "id": "prod_a3a191605d5c259cce",
+      "title": "Handwoven Throw Blanket",
+      "slug": "handwoven-throw-blanket",
+      "description": "Chunky handwoven throw in undyed wool and cotton, fringed edges. Looms of Kutch.",
+      "brand": "Khaas Home",
+      "categoryId": "cat_53907a68a247212252",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/throw.jpg",
+          "alt": "Handwoven Throw Blanket",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "HANDWO-001",
+          "attributes": {
+            "color": "Natural"
+          },
+          "pricePaise": 179900,
+          "compareAtPaise": 229900,
+          "stock": 24
+        },
+        {
+          "sku": "HANDWO-002",
+          "attributes": {
+            "color": "Rust"
+          },
+          "pricePaise": 179900,
+          "compareAtPaise": 229900,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": "prod_3af23f5f60c1822843",
+      "title": "Ceramic Pour-Over Set",
+      "slug": "ceramic-pour-over-set",
+      "description": "Complete pour-over coffee ritual: dripper, carafe and walnut collar, in matte ceramic.",
+      "brand": "Khaas Home",
+      "categoryId": "cat_53907a68a247212252",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/pour-over.jpg",
+          "alt": "Ceramic Pour-Over Set",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "CERAMI-001",
+          "attributes": {
+            "set": "Dripper + carafe"
+          },
+          "pricePaise": 159900,
+          "compareAtPaise": 199900,
+          "stock": 30
+        }
+      ]
+    },
+    {
+      "id": "prod_28a7ec55e892deb0f3",
+      "title": "Full-Grain Leather Wallet",
+      "slug": "full-grain-leather-wallet",
+      "description": "Six-card bifold in full-grain vegetable-tanned leather. Develops a rich patina.",
+      "brand": "Khaas",
+      "categoryId": "cat_5f312665ff3924a73e",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/wallet.jpg",
+          "alt": "Full-Grain Leather Wallet",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "FULL-G-001",
+          "attributes": {
+            "color": "Tan"
+          },
+          "pricePaise": 129900,
+          "compareAtPaise": 169900,
+          "stock": 49
+        },
+        {
+          "sku": "FULL-G-002",
+          "attributes": {
+            "color": "Espresso"
+          },
+          "pricePaise": 129900,
+          "compareAtPaise": 169900,
+          "stock": 48
+        }
+      ]
+    },
+    {
+      "id": "prod_7568a775ad2e39fdf4",
+      "title": "Canvas Weekender Bag",
+      "slug": "canvas-weekender-bag",
+      "description": "Waxed canvas weekender with leather trims, brass zips and a separate shoe compartment.",
+      "brand": "Khaas",
+      "categoryId": "cat_5f312665ff3924a73e",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/weekender.jpg",
+          "alt": "Canvas Weekender Bag",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "CANVAS-001",
+          "attributes": {
+            "color": "Field tan"
+          },
+          "pricePaise": 349900,
+          "compareAtPaise": 449900,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": "prod_713e6077a6c9ebcdf8",
+      "title": "Block-Print Silk Scarf",
+      "slug": "block-print-silk-scarf",
+      "description": "Hand block-printed mulberry silk scarf, 180x70cm. Each piece slightly unique.",
+      "brand": "Khaas",
+      "categoryId": "cat_5f312665ff3924a73e",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/scarf.jpg",
+          "alt": "Block-Print Silk Scarf",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "BLOCK--001",
+          "attributes": {
+            "color": "Indigo"
+          },
+          "pricePaise": 99900,
+          "compareAtPaise": 139900,
+          "stock": 45
+        },
+        {
+          "sku": "BLOCK--002",
+          "attributes": {
+            "color": "Maroon"
+          },
+          "pricePaise": 99900,
+          "compareAtPaise": 139900,
+          "stock": 45
+        }
+      ]
+    },
+    {
+      "id": "prod_3ed5b51d1c79c4d545",
+      "title": "Copper Water Carafe Set",
+      "slug": "copper-water-carafe-set",
+      "description": "Hammered pure-copper carafe with tumbler lid. Traditional craftsmanship, lacquered exterior.",
+      "brand": "Khaas Home",
+      "categoryId": "cat_53907a68a247212252",
+      "status": "ACTIVE",
+      "createdAt": "2026-10-19T15:33:20.744Z",
+      "updatedAt": "2026-10-19T15:33:20.744Z",
+      "media": [
+        {
+          "key": "img/carafe.jpg",
+          "alt": "Copper Water Carafe Set",
+          "sort": 0
+        }
+      ],
+      "variants": [
+        {
+          "sku": "COPPER-001",
+          "attributes": {
+            "set": "Carafe + tumbler"
+          },
+          "pricePaise": 119900,
+          "compareAtPaise": 159900,
+          "stock": 34
+        }
+      ]
+    }
+  ],
+  "carts": [
+    {
+      "id": "cart_ec83258e00c1262634",
+      "userId": null,
+      "guestId": "guest_68ba23e935bd9321a5",
+      "items": [],
+      "updatedAt": "2026-10-19T15:34:10.887Z"
+    },
+    {
+      "id": "cart_4ff01d7e3fabec035b",
+      "userId": null,
+      "guestId": "guest_00f51b48e5c329a37d",
+      "items": [],
+      "updatedAt": "2026-10-19T15:35:55.614Z"
+    },
+    {
+      "id": "cart_b4d1d0f6f7d19b0280",
+      "userId": null,
+      "guestId": "guest_4efe63a7731b569289",
+      "items": [],
+      "updatedAt": "2026-10-19T15:35:55.625Z"
+    },
+    {
+      "id": "cart_1abfd49df91b8e1ee0",
+      "userId": null,
+      "guestId": "guest_8fca504d6611efd581",
+      "items": [],
+      "updatedAt": "2026-10-19T15:47:20.124Z"
+    },
+    {
+      "id": "cart_c0ae6f87ac19142083",
+      "userId": null,
+      "guestId": "guest_b87c7a6d0c8063a042",
+      "items": [],
+      "updatedAt": "2026-10-19T15:47:20.132Z"
+    },
+    {
+      "id": "cart_d1753c6ac79a2965df",
+      "userId": null,
+      "guestId": "guest_7f3ccaca86e978c7d5",
+      "items": [],
+      "updatedAt": "2026-10-19T15:47:22.934Z"
+    },
+    {
+      "id": "cart_43333c2fedc9cfa944",
+      "userId": null,
+      "guestId": "guest_968264a4ac918aadee",
+      "items": [],
+      "updatedAt": "2026-10-19T15:47:22.938Z"
+    },
+    {
+      "id": "cart_875e1bd4643ce03b5e",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "guestId": null,
+      "items": [],
+      "updatedAt": "2026-10-20T06:16:01.613Z"
+    },
+    {
+      "id": "cart_cc881ecf2453c38128",
+      "userId": null,
+      "guestId": "guest_744cb5d87b25151c81",
+      "items": [],
+      "updatedAt": "2026-10-19T15:58:52.213Z"
+    },
+    {
+      "id": "cart_e05637ba906a313d36",
+      "userId": null,
+      "guestId": "guest_4460a026f66733a100",
+      "items": [],
+      "updatedAt": "2026-10-19T15:58:52.221Z"
+    },
+    {
+      "id": "cart_3632d667411f9f5779",
+      "userId": null,
+      "guestId": "guest_f13e523e330d6e9ff8",
+      "items": [],
+      "updatedAt": "2026-10-19T15:59:22.478Z"
+    },
+    {
+      "id": "cart_8f9b5f8d3f51a4c0d8",
+      "userId": null,
+      "guestId": "guest_eea37a08f26769e516",
+      "items": [],
+      "updatedAt": "2026-10-19T15:59:22.486Z"
+    },
+    {
+      "id": "cart_a2d2a5c6d300a9ef01",
+      "userId": null,
+      "guestId": "guest_83e252b7697f122c27",
+      "items": [],
+      "updatedAt": "2026-10-19T16:12:36.160Z"
+    },
+    {
+      "id": "cart_3ffc37fe9366a37ba6",
+      "userId": null,
+      "guestId": "guest_c540043861877215dd",
+      "items": [],
+      "updatedAt": "2026-10-19T16:12:36.169Z"
+    },
+    {
+      "id": "cart_3b64a89336780ba1c4",
+      "userId": null,
+      "guestId": "guest_ce522b135e9518003e",
+      "items": [],
+      "updatedAt": "2026-10-19T16:16:04.887Z"
+    },
+    {
+      "id": "cart_7f9d89843d0567934e",
+      "userId": null,
+      "guestId": "guest_a2a4af4933bcb75e69",
+      "items": [],
+      "updatedAt": "2026-10-19T16:16:04.894Z"
+    },
+    {
+      "id": "cart_4cdacab0da3b82c9d9",
+      "userId": null,
+      "guestId": "guest_651d53e41c75da9c04",
+      "items": [
+        {
+          "sku": "STONEW-001",
+          "qty": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T16:16:44.606Z"
+    },
+    {
+      "id": "cart_b36ccf733cef9733f0",
+      "userId": null,
+      "guestId": "guest_2b637605acbf2ede90",
+      "items": [],
+      "updatedAt": "2026-10-19T16:16:48.870Z"
+    },
+    {
+      "id": "cart_4c5af2a089b0980e99",
+      "userId": null,
+      "guestId": "guest_69df9f3ddbef345c6f",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:34.325Z"
+    },
+    {
+      "id": "cart_659f50274f5d9b9bff",
+      "userId": null,
+      "guestId": "guest_bb4e7ac6c13a3c8a60",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:34.334Z"
+    },
+    {
+      "id": "cart_094d02d5fa80bcd9b0",
+      "userId": null,
+      "guestId": "guest_2f49c1c0a4d7fa6cf2",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:42.799Z"
+    },
+    {
+      "id": "cart_7c74d84d5d1ce4d487",
+      "userId": null,
+      "guestId": "guest_cc32a4f5d74ee98cff",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:42.806Z"
+    },
+    {
+      "id": "cart_5543d230a567fb4f18",
+      "userId": null,
+      "guestId": "guest_54f4e87d22d556d01f",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:52.504Z"
+    },
+    {
+      "id": "cart_814e03c341236721c1",
+      "userId": null,
+      "guestId": "guest_8d83e624ee25f0eeb6",
+      "items": [],
+      "updatedAt": "2026-10-19T16:28:52.511Z"
+    },
+    {
+      "id": "cart_c860a701bd72d70f7b",
+      "userId": "user_3b3a1e53ee1e4c3b31",
+      "guestId": null,
+      "items": [],
+      "updatedAt": "2026-10-19T16:30:30.808Z"
+    },
+    {
+      "id": "cart_b4279e48a4a1db2991",
+      "userId": null,
+      "guestId": "guest_334e51a3bcded62088",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:48.386Z"
+    },
+    {
+      "id": "cart_10ba97ff8e528094bf",
+      "userId": null,
+      "guestId": "guest_89be016be542389965",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:48.427Z"
+    },
+    {
+      "id": "cart_a0b2878f140692d83b",
+      "userId": null,
+      "guestId": "guest_eebf3e110dca8f0580",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:49.351Z"
+    },
+    {
+      "id": "cart_8b5c6c30b22849e49c",
+      "userId": null,
+      "guestId": "guest_791eac0ec92849328c",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:49.356Z"
+    },
+    {
+      "id": "cart_0237abb2451b06ebb2",
+      "userId": null,
+      "guestId": "guest_6c9357bc7bd82999a5",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:50.510Z"
+    },
+    {
+      "id": "cart_923a5e3b8dacc5855f",
+      "userId": null,
+      "guestId": "guest_bad9cd6dd962489bdd",
+      "items": [],
+      "updatedAt": "2026-10-19T17:04:50.514Z"
+    },
+    {
+      "id": "cart_57a23c16d741388a10",
+      "userId": null,
+      "guestId": "guest_0ce4b4ea0438ee7bf2",
+      "items": [],
+      "updatedAt": "2026-10-19T17:05:19.032Z"
+    },
+    {
+      "id": "cart_df2a81fd14893c1b40",
+      "userId": null,
+      "guestId": "guest_845e31211918519adc",
+      "items": [],
+      "updatedAt": "2026-10-19T17:05:19.038Z"
+    },
+    {
+      "id": "cart_7a01d8294c068d6f62",
+      "userId": "user_d39f1b9fe105d391aa",
+      "guestId": null,
+      "items": [],
+      "updatedAt": "2026-10-19T18:33:06.760Z"
+    },
+    {
+      "id": "cart_b08baf3a5aad870c88",
+      "userId": "user_c7bd4c54d635c546d9",
+      "guestId": null,
+      "items": [],
+      "updatedAt": "2026-10-19T18:33:59.771Z"
+    },
+    {
+      "id": "cart_2be1d6db0c0273af3a",
+      "userId": null,
+      "guestId": "guest_dbff2dbcbbf5631757",
+      "items": [],
+      "updatedAt": "2026-10-19T18:34:25.506Z"
+    },
+    {
+      "id": "cart_bbbea4aa3ba8942a42",
+      "userId": null,
+      "guestId": "guest_e148664b3cc33e3378",
+      "items": [],
+      "updatedAt": "2026-10-19T18:34:25.514Z"
+    },
+    {
+      "id": "cart_5118dba3981a9e5e7c",
+      "userId": "user_add0693e03a856481e",
+      "guestId": null,
+      "items": [],
+      "updatedAt": "2026-10-19T18:34:44.164Z"
+    },
+    {
+      "id": "cart_f2de1a75b44ff1ca45",
+      "userId": null,
+      "guestId": "guest_f05638f2314bd04ba9",
+      "items": [],
+      "updatedAt": "2026-10-19T18:35:20.610Z"
+    },
+    {
+      "id": "cart_a0e7353ebd8aa63591",
+      "userId": null,
+      "guestId": "guest_1f38ce886c2fb75dfb",
+      "items": [],
+      "updatedAt": "2026-10-19T18:35:20.618Z"
+    },
+    {
+      "id": "cart_96ecdecd7e7c42f222",
+      "userId": null,
+      "guestId": "guest_b4c077a38e65f72467",
+      "items": [],
+      "updatedAt": "2026-10-19T18:47:33.080Z"
+    },
+    {
+      "id": "cart_191d8e76f8b7df552a",
+      "userId": null,
+      "guestId": "guest_defaa2ef05299675db",
+      "items": [],
+      "updatedAt": "2026-10-19T18:47:33.088Z"
+    },
+    {
+      "id": "cart_14efb427b900e24d6e",
+      "userId": null,
+      "guestId": "guest_dd7864445736768001",
+      "items": [],
+      "updatedAt": "2026-10-19T18:55:41.212Z"
+    },
+    {
+      "id": "cart_9ddd31948a716a0ed6",
+      "userId": null,
+      "guestId": "guest_b48e6de83c5f991ff1",
+      "items": [],
+      "updatedAt": "2026-10-19T19:24:58.561Z"
+    },
+    {
+      "id": "cart_d20f86d10618fc04ab",
+      "userId": null,
+      "guestId": "guest_246db9645b449213a2",
+      "items": [],
+      "updatedAt": "2026-10-19T19:24:58.568Z"
+    },
+    {
+      "id": "cart_e4078e091707534548",
+      "userId": null,
+      "guestId": "guest_649b858f146b5c8013",
+      "items": [],
+      "updatedAt": "2026-10-19T19:27:19.389Z"
+    },
+    {
+      "id": "cart_ae336d59f585f50cd9",
+      "userId": null,
+      "guestId": "guest_efee45961541a7ca97",
+      "items": [],
+      "updatedAt": "2026-10-19T19:27:19.397Z"
+    },
+    {
+      "id": "cart_4bb31b52e1a4a6e407",
+      "userId": null,
+      "guestId": "guest_2024c1e9982a78604e",
+      "items": [],
+      "updatedAt": "2026-10-20T06:11:13.270Z"
+    },
+    {
+      "id": "cart_99f6444302daf42144",
+      "userId": null,
+      "guestId": "guest_384a4b4d486b3fdd54",
+      "items": [],
+      "updatedAt": "2026-10-20T06:11:13.321Z"
+    },
+    {
+      "id": "cart_9d35aac16b08b5c4b0",
+      "userId": null,
+      "guestId": "guest_f40a548957bba53823",
+      "items": [],
+      "updatedAt": "2026-10-20T08:07:47.677Z"
+    },
+    {
+      "id": "cart_e4b9ccb03d92b37948",
+      "userId": null,
+      "guestId": "guest_522921b6a3467a449d",
+      "items": [],
+      "updatedAt": "2026-10-20T08:07:47.711Z"
+    },
+    {
+      "id": "cart_59208b7b6b28522539",
+      "userId": null,
+      "guestId": "guest_35db828bc6aeed5c61",
+      "items": [],
+      "updatedAt": "2026-10-20T08:14:20.988Z"
+    },
+    {
+      "id": "cart_65d289e5a9c40d81c4",
+      "userId": null,
+      "guestId": "guest_03380a6ab0bf58a9e1",
+      "items": [],
+      "updatedAt": "2026-10-20T08:14:20.995Z"
+    },
+    {
+      "id": "cart_57719fe530cb6e6b70",
+      "userId": null,
+      "guestId": "guest_8ac8e9f98463d88734",
+      "items": [],
+      "updatedAt": "2026-10-20T08:18:14.576Z"
+    },
+    {
+      "id": "cart_ebbd62788c20749673",
+      "userId": null,
+      "guestId": "guest_4e063274f668575f43",
+      "items": [],
+      "updatedAt": "2026-10-20T08:18:14.585Z"
+    },
+    {
+      "id": "cart_4d7bb31b3f71566d50",
+      "userId": null,
+      "guestId": "guest_7fe8b0eca556825a7c",
+      "items": [
+        {
+          "sku": "BRASS--001",
+          "qty": 3
+        }
+      ],
+      "updatedAt": "2026-10-20T08:18:25.792Z"
+    },
+    {
+      "id": "cart_1d5f3847ab27067b12",
+      "userId": null,
+      "guestId": "guest_48467b2696bff8186c",
+      "items": [
+        {
+          "sku": "BRASS--001",
+          "qty": 3
+        }
+      ],
+      "updatedAt": "2026-10-20T08:18:26.304Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_b12c6715b4c4478cb1",
+      "orderNumber": "KH-20261019-50BC3F",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "contact": {
+        "email": "anubhavff6@gmail.com",
+        "phone": ""
+      },
+      "address": {
+        "name": "Anubhav gupta",
+        "phone": "7011344824",
+        "line1": "d-5/346 sangam vihar new delhi-110080",
+        "line2": "gugga",
+        "city": "new delhi",
+        "state": "Delhi",
+        "pincode": "110080"
+      },
+      "items": [
+        {
+          "productId": "prod_28a7ec55e892deb0f3",
+          "sku": "FULL-G-001",
+          "title": "Full-Grain Leather Wallet",
+          "attributes": {
+            "color": "Tan"
+          },
+          "unitPricePaise": 129900,
+          "qty": 1,
+          "lineTotalPaise": 129900
+        }
+      ],
+      "subtotalPaise": 129900,
+      "discountPaise": 0,
+      "couponCode": null,
+      "shippingPaise": 9900,
+      "taxPaise": 0,
+      "totalPaise": 139800,
+      "currency": "INR",
+      "paymentMethod": "COD",
+      "paymentStatus": "COD_DUE",
+      "fulfilmentStatus": "PLACED",
+      "timeline": [
+        {
+          "at": "2026-10-19T16:18:31.937Z",
+          "event": "Order placed",
+          "by": "user_f62c2bc59fe6b3925b"
+        }
+      ],
+      "createdAt": "2026-10-19T16:18:31.937Z",
+      "updatedAt": "2026-10-19T16:18:31.937Z"
+    },
+    {
+      "id": "ord_2e1d2590ab93249ec9",
+      "orderNumber": "KH-20261019-D4F3BB",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "contact": {
+        "email": "anubhavff6@gmail.com",
+        "phone": ""
+      },
+      "address": {
+        "name": "Anubhav gupta",
+        "phone": "7011344824",
+        "line1": "d-5/346 sangam vihar new delhi-110080",
+        "line2": "",
+        "city": "new delhi",
+        "state": "Delhi",
+        "pincode": "110080"
+      },
+      "items": [
+        {
+          "productId": "prod_3ed5b51d1c79c4d545",
+          "sku": "COPPER-001",
+          "title": "Copper Water Carafe Set",
+          "attributes": {
+            "set": "Carafe + tumbler"
+          },
+          "unitPricePaise": 119900,
+          "qty": 1,
+          "lineTotalPaise": 119900
+        }
+      ],
+      "subtotalPaise": 119900,
+      "discountPaise": 0,
+      "couponCode": null,
+      "shippingPaise": 9900,
+      "taxPaise": 0,
+      "totalPaise": 129800,
+      "currency": "INR",
+      "paymentMethod": "QR",
+      "paymentStatus": "PENDING",
+      "fulfilmentStatus": "PLACED",
+      "timeline": [
+        {
+          "at": "2026-10-19T16:19:30.563Z",
+          "event": "Order placed",
+          "by": "user_f62c2bc59fe6b3925b"
+        }
+      ],
+      "createdAt": "2026-10-19T16:19:30.563Z",
+      "updatedAt": "2026-10-19T16:19:30.563Z"
+    },
+    {
+      "id": "ord_34a92fc40e2cc4f1c0",
+      "orderNumber": "KH-20261019-9978FB",
+      "userId": "user_3b3a1e53ee1e4c3b31",
+      "contact": {
+        "email": "dsa611459@gmail.com",
+        "phone": ""
+      },
+      "address": {
+        "name": "Anubhav gupta",
+        "phone": "7011344824",
+        "line1": "d-5/346 sangam vihar new delhi-110080",
+        "line2": "",
+        "city": "new delhi",
+        "state": "Delhi",
+        "pincode": "110080"
+      },
+      "items": [
+        {
+          "productId": "prod_3ed5b51d1c79c4d545",
+          "sku": "COPPER-001",
+          "title": "Copper Water Carafe Set",
+          "attributes": {
+            "set": "Carafe + tumbler"
+          },
+          "unitPricePaise": 119900,
+          "qty": 3,
+          "lineTotalPaise": 359700
+        }
+      ],
+      "subtotalPaise": 359700,
+      "discountPaise": 0,
+      "couponCode": null,
+      "shippingPaise": 0,
+      "taxPaise": 0,
+      "totalPaise": 359700,
+      "currency": "INR",
+      "paymentMethod": "COD",
+      "paymentStatus": "COD_DUE",
+      "fulfilmentStatus": "PLACED",
+      "timeline": [
+        {
+          "at": "2026-10-19T16:30:30.808Z",
+          "event": "Order placed",
+          "by": "user_3b3a1e53ee1e4c3b31"
+        }
+      ],
+      "createdAt": "2026-10-19T16:30:30.808Z",
+      "updatedAt": "2026-10-19T16:30:30.808Z"
+    },
+    {
+      "id": "ord_6543c006d7de5e15f0",
+      "orderNumber": "KH-20261019-136E9F",
+      "userId": "user_d39f1b9fe105d391aa",
+      "contact": {
+        "email": "officialag701@gmail.com",
+        "phone": ""
+      },
+      "address": {
+        "name": "Anubhav gupta",
+        "phone": "7011344824",
+        "line1": "d-5/346 sangam vihar new delhi-110080",
+        "line2": "",
+        "city": "new delhi",
+        "state": "Delhi",
+        "pincode": "110080"
+      },
+      "items": [
+        {
+          "productId": "prod_28a7ec55e892deb0f3",
+          "sku": "FULL-G-002",
+          "title": "Full-Grain Leather Wallet",
+          "attributes": {
+            "color": "Espresso"
+          },
+          "unitPricePaise": 129900,
+          "qty": 2,
+          "lineTotalPaise": 259800
+        }
+      ],
+      "subtotalPaise": 259800,
+      "discountPaise": 0,
+      "couponCode": null,
+      "shippingPaise": 0,
+      "taxPaise": 0,
+      "totalPaise": 259800,
+      "currency": "INR",
+      "paymentMethod": "COD",
+      "paymentStatus": "COD_DUE",
+      "fulfilmentStatus": "PACKED",
+      "timeline": [
+        {
+          "at": "2026-10-19T18:33:06.759Z",
+          "event": "Order placed",
+          "by": "user_d39f1b9fe105d391aa"
+        },
+        {
+          "at": "2026-10-19T19:11:56.542Z",
+          "event": "Fulfilment: PLACED → PACKED",
+          "by": "user_add0693e03a856481e"
+        }
+      ],
+      "createdAt": "2026-10-19T18:33:06.759Z",
+      "updatedAt": "2026-10-19T19:11:56.542Z"
+    },
+    {
+      "id": "ord_35ccc2290e6f7e0d0c",
+      "orderNumber": "KH-20261020-B878B4",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "contact": {
+        "email": "anubhavff6@gmail.com",
+        "phone": ""
+      },
+      "address": {
+        "name": "Anubhav gupta",
+        "phone": "7011344824",
+        "line1": "d-5/346 sangam vihar new delhi-110080",
+        "line2": "",
+        "city": "new delhi",
+        "state": "Delhi",
+        "pincode": "110080"
+      },
+      "items": [
+        {
+          "productId": "prod_a3a191605d5c259cce",
+          "sku": "HANDWO-001",
+          "title": "Handwoven Throw Blanket",
+          "attributes": {
+            "color": "Natural"
+          },
+          "unitPricePaise": 179900,
+          "qty": 4,
+          "lineTotalPaise": 719600
+        },
+        {
+          "productId": "prod_3af23f5f60c1822843",
+          "sku": "CERAMI-001",
+          "title": "Ceramic Pour-Over Set",
+          "attributes": {
+            "set": "Dripper + carafe"
+          },
+          "unitPricePaise": 159900,
+          "qty": 2,
+          "lineTotalPaise": 319800
+        }
+      ],
+      "subtotalPaise": 1039400,
+      "discountPaise": 0,
+      "couponCode": null,
+      "shippingPaise": 0,
+      "taxPaise": 0,
+      "totalPaise": 1039400,
+      "currency": "INR",
+      "paymentMethod": "COD",
+      "paymentStatus": "COD_DUE",
+      "fulfilmentStatus": "PLACED",
+      "timeline": [
+        {
+          "at": "2026-10-20T06:16:01.613Z",
+          "event": "Order placed",
+          "by": "user_f62c2bc59fe6b3925b"
+        }
+      ],
+      "createdAt": "2026-10-20T06:16:01.613Z",
+      "updatedAt": "2026-10-20T06:16:01.613Z"
+    }
+  ],
+  "paymentSubmissions": [],
+  "coupons": [
+    {
+      "id": "cpn_334eb19ee7558b1a72",
+      "code": "WELCOME10",
+      "kind": "percent",
+      "value": 10,
+      "maxDiscountPaise": 50000,
+      "minSubtotalPaise": 99900,
+      "active": true,
+      "startsAt": "2026-10-19T15:33:20.744Z",
+      "endsAt": null,
+      "usageLimit": 1000,
+      "usedCount": 0,
+      "createdAt": "2026-10-19T15:33:20.744Z"
+    }
+  ],
+  "addresses": [],
+  "auditLogs": [
+    {
+      "id": "log_edf138599109de8119",
+      "actorId": "user_3b3a1e53ee1e4c3b31",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_3b3a1e53ee1e4c3b31",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T15:36:19.523Z"
+    },
+    {
+      "id": "log_4cfccf8d792bb3f782",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_f62c2bc59fe6b3925b",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T15:47:36.066Z"
+    },
+    {
+      "id": "log_be1868f6a72ea25c3e",
+      "actorId": "user_3b3a1e53ee1e4c3b31",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_3b3a1e53ee1e4c3b31",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T16:16:19.125Z"
+    },
+    {
+      "id": "log_39b8a4a31a159d8254",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_f62c2bc59fe6b3925b",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T16:17:14.111Z"
+    },
+    {
+      "id": "log_0c1774699cd4e4ab86",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "order.create",
+      "targetType": "order",
+      "targetId": "ord_b12c6715b4c4478cb1",
+      "meta": {
+        "orderNumber": "KH-20261019-50BC3F",
+        "totalPaise": 139800
+      },
+      "createdAt": "2026-10-19T16:18:31.938Z"
+    },
+    {
+      "id": "log_0b752dea634f10055a",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "order.create",
+      "targetType": "order",
+      "targetId": "ord_2e1d2590ab93249ec9",
+      "meta": {
+        "orderNumber": "KH-20261019-D4F3BB",
+        "totalPaise": 129800
+      },
+      "createdAt": "2026-10-19T16:19:30.563Z"
+    },
+    {
+      "id": "log_8cac2813198decc5b8",
+      "actorId": "user_3b3a1e53ee1e4c3b31",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_3b3a1e53ee1e4c3b31",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T16:29:43.006Z"
+    },
+    {
+      "id": "log_47d5152050b970c75f",
+      "actorId": "user_3b3a1e53ee1e4c3b31",
+      "action": "order.create",
+      "targetType": "order",
+      "targetId": "ord_34a92fc40e2cc4f1c0",
+      "meta": {
+        "orderNumber": "KH-20261019-9978FB",
+        "totalPaise": 359700
+      },
+      "createdAt": "2026-10-19T16:30:30.808Z"
+    },
+    {
+      "id": "log_75893c936aea01a8f3",
+      "actorId": "user_d39f1b9fe105d391aa",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_d39f1b9fe105d391aa",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T17:05:41.793Z"
+    },
+    {
+      "id": "log_603269a34bd7b94987",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T17:33:10.045Z"
+    },
+    {
+      "id": "log_31cd31c3d896e18017",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T17:33:10.096Z"
+    },
+    {
+      "id": "log_312eae41e492e98fbc",
+      "actorId": "user_d39f1b9fe105d391aa",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_d39f1b9fe105d391aa",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T18:32:35.772Z"
+    },
+    {
+      "id": "log_f058c6d0473438fc63",
+      "actorId": "user_d39f1b9fe105d391aa",
+      "action": "order.create",
+      "targetType": "order",
+      "targetId": "ord_6543c006d7de5e15f0",
+      "meta": {
+        "orderNumber": "KH-20261019-136E9F",
+        "totalPaise": 259800
+      },
+      "createdAt": "2026-10-19T18:33:06.760Z"
+    },
+    {
+      "id": "log_e0bc48a230409a1c8c",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T18:33:38.248Z"
+    },
+    {
+      "id": "log_f4ef5e6a8f4ae22847",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T18:34:31.736Z"
+    },
+    {
+      "id": "log_4eb29d909e32e794ae",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T18:35:24.900Z"
+    },
+    {
+      "id": "log_bbb1afdabbf3f6a620",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "product.image_upload",
+      "targetType": "file",
+      "targetId": null,
+      "meta": {
+        "count": 1
+      },
+      "createdAt": "2026-10-19T18:46:58.757Z"
+    },
+    {
+      "id": "log_af3eec3fbf4c8897c9",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T18:47:38.766Z"
+    },
+    {
+      "id": "log_ed6245791127b4b5c2",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T18:55:41.194Z"
+    },
+    {
+      "id": "log_36acffd30dadd7e1d4",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:02:02.788Z"
+    },
+    {
+      "id": "log_ade61d39ae8a28e88e",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:08:36.337Z"
+    },
+    {
+      "id": "log_3e42e8ba9e70a550f1",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "product.create",
+      "targetType": "product",
+      "targetId": "prod_543b3c1d8a84ad9ad2",
+      "meta": {
+        "title": "Multi Image Test Kurta"
+      },
+      "createdAt": "2026-10-19T19:08:36.355Z"
+    },
+    {
+      "id": "log_79d51085b99cab5c4a",
+      "actorId": "user_add0693e03a856481e",
+      "action": "order.fulfilment",
+      "targetType": "order",
+      "targetId": "ord_6543c006d7de5e15f0",
+      "meta": {
+        "from": "PLACED",
+        "to": "PACKED"
+      },
+      "createdAt": "2026-10-19T19:11:56.543Z"
+    },
+    {
+      "id": "log_86fabdcefc3e7f07c5",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:23:11.821Z"
+    },
+    {
+      "id": "log_1a05df45bbee940f34",
+      "actorId": "user_add0693e03a856481e",
+      "action": "category.create",
+      "targetType": "category",
+      "targetId": "cat_8e2ccf900a972106ad",
+      "meta": {
+        "name": "Test Winterwear"
+      },
+      "createdAt": "2026-10-19T19:23:11.836Z"
+    },
+    {
+      "id": "log_604cb01ea48390e07b",
+      "actorId": "user_add0693e03a856481e",
+      "action": "category.update",
+      "targetType": "category",
+      "targetId": "cat_8e2ccf900a972106ad",
+      "meta": {},
+      "createdAt": "2026-10-19T19:23:11.844Z"
+    },
+    {
+      "id": "log_dfa1895b6f5b52570b",
+      "actorId": "user_add0693e03a856481e",
+      "action": "category.delete",
+      "targetType": "category",
+      "targetId": "cat_8e2ccf900a972106ad",
+      "meta": {
+        "name": "Winterwear Updated"
+      },
+      "createdAt": "2026-10-19T19:23:11.852Z"
+    },
+    {
+      "id": "log_bebadd55e35980baad",
+      "actorId": "user_add0693e03a856481e",
+      "action": "staff.grant",
+      "targetType": "user",
+      "targetId": "user_33b433f9f8567aff4f",
+      "meta": {
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-19T19:23:11.922Z"
+    },
+    {
+      "id": "log_10c6b6985500d29ece",
+      "actorId": "user_33b433f9f8567aff4f",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_33b433f9f8567aff4f",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:23:11.988Z"
+    },
+    {
+      "id": "log_f60e2034ebb6d1e363",
+      "actorId": "user_add0693e03a856481e",
+      "action": "staff.reset_password",
+      "targetType": "user",
+      "targetId": "user_33b433f9f8567aff4f",
+      "meta": {},
+      "createdAt": "2026-10-19T19:23:12.057Z"
+    },
+    {
+      "id": "log_8445ad7c2bdb1f695e",
+      "actorId": "user_33b433f9f8567aff4f",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_33b433f9f8567aff4f",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:23:12.122Z"
+    },
+    {
+      "id": "log_200ca702fcc31649d6",
+      "actorId": "user_add0693e03a856481e",
+      "action": "staff.revoke",
+      "targetType": "user",
+      "targetId": "user_33b433f9f8567aff4f",
+      "meta": {
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-19T19:23:12.133Z"
+    },
+    {
+      "id": "log_d643e7e88ed09fdecc",
+      "actorId": "user_add0693e03a856481e",
+      "action": "coupon.create",
+      "targetType": "coupon",
+      "targetId": "cpn_cabe4ca20552957997",
+      "meta": {
+        "code": "TESTFLAT150"
+      },
+      "createdAt": "2026-10-19T19:23:12.139Z"
+    },
+    {
+      "id": "log_96563af9928c6c81a9",
+      "actorId": "user_add0693e03a856481e",
+      "action": "coupon.delete",
+      "targetType": "coupon",
+      "targetId": "cpn_cabe4ca20552957997",
+      "meta": {
+        "code": "TESTFLAT150"
+      },
+      "createdAt": "2026-10-19T19:23:12.148Z"
+    },
+    {
+      "id": "log_da4e76d32628f1c4f5",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:25:01.536Z"
+    },
+    {
+      "id": "log_da56aedcfce5135642",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_f62c2bc59fe6b3925b",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-19T19:25:59.019Z"
+    },
+    {
+      "id": "log_c4fdce4379ee6ddd47",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:26:57.214Z"
+    },
+    {
+      "id": "log_14842c968db959b97c",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-19T19:27:25.679Z"
+    },
+    {
+      "id": "log_5c3b8bc3c0700573fd",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "auth.firebase",
+      "targetType": "user",
+      "targetId": "user_f62c2bc59fe6b3925b",
+      "meta": {
+        "provider": "google.com"
+      },
+      "createdAt": "2026-10-20T06:14:21.286Z"
+    },
+    {
+      "id": "log_4e477d359411108234",
+      "actorId": "user_f62c2bc59fe6b3925b",
+      "action": "order.create",
+      "targetType": "order",
+      "targetId": "ord_35ccc2290e6f7e0d0c",
+      "meta": {
+        "orderNumber": "KH-20261020-B878B4",
+        "totalPaise": 1039400
+      },
+      "createdAt": "2026-10-20T06:16:01.613Z"
+    },
+    {
+      "id": "log_4e8bc9a3e6814fa701",
+      "actorId": "user_c7bd4c54d635c546d9",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_c7bd4c54d635c546d9",
+      "meta": {
+        "roles": [
+          "ADMIN"
+        ]
+      },
+      "createdAt": "2026-10-20T06:16:23.142Z"
+    },
+    {
+      "id": "log_ccdb40ce6fafb18320",
+      "actorId": "user_add0693e03a856481e",
+      "action": "auth.staff_login",
+      "targetType": "user",
+      "targetId": "user_add0693e03a856481e",
+      "meta": {
+        "roles": [
+          "SUPERADMIN"
+        ]
+      },
+      "createdAt": "2026-10-20T06:16:34.158Z"
+    }
+  ],
+  "idempotencyKeys": [
+    {
+      "key": "ck_9jq9lz6jitemvfgl2f0",
+      "scope": "checkout",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "response": {
+        "order": {
+          "id": "ord_b12c6715b4c4478cb1",
+          "orderNumber": "KH-20261019-50BC3F",
+          "userId": "user_f62c2bc59fe6b3925b",
+          "contact": {
+            "email": "anubhavff6@gmail.com",
+            "phone": ""
+          },
+          "address": {
+            "name": "Anubhav gupta",
+            "phone": "7011344824",
+            "line1": "d-5/346 sangam vihar new delhi-110080",
+            "line2": "gugga",
+            "city": "new delhi",
+            "state": "Delhi",
+            "pincode": "110080"
+          },
+          "items": [
+            {
+              "productId": "prod_28a7ec55e892deb0f3",
+              "sku": "FULL-G-001",
+              "title": "Full-Grain Leather Wallet",
+              "attributes": {
+                "color": "Tan"
+              },
+              "unitPricePaise": 129900,
+              "qty": 1,
+              "lineTotalPaise": 129900
+            }
+          ],
+          "subtotalPaise": 129900,
+          "discountPaise": 0,
+          "couponCode": null,
+          "shippingPaise": 9900,
+          "taxPaise": 0,
+          "totalPaise": 139800,
+          "currency": "INR",
+          "paymentMethod": "COD",
+          "paymentStatus": "COD_DUE",
+          "fulfilmentStatus": "PLACED",
+          "timeline": [
+            {
+              "at": "2026-10-19T16:18:31.937Z",
+              "event": "Order placed",
+              "by": "user_f62c2bc59fe6b3925b"
+            }
+          ],
+          "createdAt": "2026-10-19T16:18:31.937Z",
+          "updatedAt": "2026-10-19T16:18:31.937Z",
+          "totalDisplay": "₹1,398.00",
+          "subtotalDisplay": "₹1,299.00",
+          "discountDisplay": "₹0.00",
+          "shippingDisplay": "₹99.00"
+        }
+      },
+      "createdAt": "2026-10-19T16:18:31.938Z"
+    },
+    {
+      "key": "ck_k48nwzxnzulmvfgmbni",
+      "scope": "checkout",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "response": {
+        "order": {
+          "id": "ord_2e1d2590ab93249ec9",
+          "orderNumber": "KH-20261019-D4F3BB",
+          "userId": "user_f62c2bc59fe6b3925b",
+          "contact": {
+            "email": "anubhavff6@gmail.com",
+            "phone": ""
+          },
+          "address": {
+            "name": "Anubhav gupta",
+            "phone": "7011344824",
+            "line1": "d-5/346 sangam vihar new delhi-110080",
+            "line2": "",
+            "city": "new delhi",
+            "state": "Delhi",
+            "pincode": "110080"
+          },
+          "items": [
+            {
+              "productId": "prod_3ed5b51d1c79c4d545",
+              "sku": "COPPER-001",
+              "title": "Copper Water Carafe Set",
+              "attributes": {
+                "set": "Carafe + tumbler"
+              },
+              "unitPricePaise": 119900,
+              "qty": 1,
+              "lineTotalPaise": 119900
+            }
+          ],
+          "subtotalPaise": 119900,
+          "discountPaise": 0,
+          "couponCode": null,
+          "shippingPaise": 9900,
+          "taxPaise": 0,
+          "totalPaise": 129800,
+          "currency": "INR",
+          "paymentMethod": "QR",
+          "paymentStatus": "PENDING",
+          "fulfilmentStatus": "PLACED",
+          "timeline": [
+            {
+              "at": "2026-10-19T16:19:30.563Z",
+              "event": "Order placed",
+              "by": "user_f62c2bc59fe6b3925b"
+            }
+          ],
+          "createdAt": "2026-10-19T16:19:30.563Z",
+          "updatedAt": "2026-10-19T16:19:30.563Z",
+          "totalDisplay": "₹1,298.00",
+          "subtotalDisplay": "₹1,199.00",
+          "discountDisplay": "₹0.00",
+          "shippingDisplay": "₹99.00"
+        }
+      },
+      "createdAt": "2026-10-19T16:19:30.563Z"
+    },
+    {
+      "key": "ck_6thymqbyjkhmvfh0h3o",
+      "scope": "checkout",
+      "userId": "user_3b3a1e53ee1e4c3b31",
+      "response": {
+        "order": {
+          "id": "ord_34a92fc40e2cc4f1c0",
+          "orderNumber": "KH-20261019-9978FB",
+          "userId": "user_3b3a1e53ee1e4c3b31",
+          "contact": {
+            "email": "dsa611459@gmail.com",
+            "phone": ""
+          },
+          "address": {
+            "name": "Anubhav gupta",
+            "phone": "7011344824",
+            "line1": "d-5/346 sangam vihar new delhi-110080",
+            "line2": "",
+            "city": "new delhi",
+            "state": "Delhi",
+            "pincode": "110080"
+          },
+          "items": [
+            {
+              "productId": "prod_3ed5b51d1c79c4d545",
+              "sku": "COPPER-001",
+              "title": "Copper Water Carafe Set",
+              "attributes": {
+                "set": "Carafe + tumbler"
+              },
+              "unitPricePaise": 119900,
+              "qty": 3,
+              "lineTotalPaise": 359700
+            }
+          ],
+          "subtotalPaise": 359700,
+          "discountPaise": 0,
+          "couponCode": null,
+          "shippingPaise": 0,
+          "taxPaise": 0,
+          "totalPaise": 359700,
+          "currency": "INR",
+          "paymentMethod": "COD",
+          "paymentStatus": "COD_DUE",
+          "fulfilmentStatus": "PLACED",
+          "timeline": [
+            {
+              "at": "2026-10-19T16:30:30.808Z",
+              "event": "Order placed",
+              "by": "user_3b3a1e53ee1e4c3b31"
+            }
+          ],
+          "createdAt": "2026-10-19T16:30:30.808Z",
+          "updatedAt": "2026-10-19T16:30:30.808Z",
+          "totalDisplay": "₹3,597.00",
+          "subtotalDisplay": "₹3,597.00",
+          "discountDisplay": "₹0.00",
+          "shippingDisplay": "₹0.00"
+        }
+      },
+      "createdAt": "2026-10-19T16:30:30.809Z"
+    },
+    {
+      "key": "ck_6tzhzchgb4fmvfle4zk",
+      "scope": "checkout",
+      "userId": "user_d39f1b9fe105d391aa",
+      "response": {
+        "order": {
+          "id": "ord_6543c006d7de5e15f0",
+          "orderNumber": "KH-20261019-136E9F",
+          "userId": "user_d39f1b9fe105d391aa",
+          "contact": {
+            "email": "officialag701@gmail.com",
+            "phone": ""
+          },
+          "address": {
+            "name": "Anubhav gupta",
+            "phone": "7011344824",
+            "line1": "d-5/346 sangam vihar new delhi-110080",
+            "line2": "",
+            "city": "new delhi",
+            "state": "Delhi",
+            "pincode": "110080"
+          },
+          "items": [
+            {
+              "productId": "prod_28a7ec55e892deb0f3",
+              "sku": "FULL-G-002",
+              "title": "Full-Grain Leather Wallet",
+              "attributes": {
+                "color": "Espresso"
+              },
+              "unitPricePaise": 129900,
+              "qty": 2,
+              "lineTotalPaise": 259800
+            }
+          ],
+          "subtotalPaise": 259800,
+          "discountPaise": 0,
+          "couponCode": null,
+          "shippingPaise": 0,
+          "taxPaise": 0,
+          "totalPaise": 259800,
+          "currency": "INR",
+          "paymentMethod": "COD",
+          "paymentStatus": "COD_DUE",
+          "fulfilmentStatus": "PLACED",
+          "timeline": [
+            {
+              "at": "2026-10-19T18:33:06.759Z",
+              "event": "Order placed",
+              "by": "user_d39f1b9fe105d391aa"
+            }
+          ],
+          "createdAt": "2026-10-19T18:33:06.759Z",
+          "updatedAt": "2026-10-19T18:33:06.759Z",
+          "totalDisplay": "₹2,598.00",
+          "subtotalDisplay": "₹2,598.00",
+          "discountDisplay": "₹0.00",
+          "shippingDisplay": "₹0.00"
+        }
+      },
+      "createdAt": "2026-10-19T18:33:06.760Z"
+    },
+    {
+      "key": "ck_or5vuelpz1nmvgai3bc",
+      "scope": "checkout",
+      "userId": "user_f62c2bc59fe6b3925b",
+      "response": {
+        "order": {
+          "id": "ord_35ccc2290e6f7e0d0c",
+          "orderNumber": "KH-20261020-B878B4",
+          "userId": "user_f62c2bc59fe6b3925b",
+          "contact": {
+            "email": "anubhavff6@gmail.com",
+            "phone": ""
+          },
+          "address": {
+            "name": "Anubhav gupta",
+            "phone": "7011344824",
+            "line1": "d-5/346 sangam vihar new delhi-110080",
+            "line2": "",
+            "city": "new delhi",
+            "state": "Delhi",
+            "pincode": "110080"
+          },
+          "items": [
+            {
+              "productId": "prod_a3a191605d5c259cce",
+              "sku": "HANDWO-001",
+              "title": "Handwoven Throw Blanket",
+              "attributes": {
+                "color": "Natural"
+              },
+              "unitPricePaise": 179900,
+              "qty": 4,
+              "lineTotalPaise": 719600
+            },
+            {
+              "productId": "prod_3af23f5f60c1822843",
+              "sku": "CERAMI-001",
+              "title": "Ceramic Pour-Over Set",
+              "attributes": {
+                "set": "Dripper + carafe"
+              },
+              "unitPricePaise": 159900,
+              "qty": 2,
+              "lineTotalPaise": 319800
+            }
+          ],
+          "subtotalPaise": 1039400,
+          "discountPaise": 0,
+          "couponCode": null,
+          "shippingPaise": 0,
+          "taxPaise": 0,
+          "totalPaise": 1039400,
+          "currency": "INR",
+          "paymentMethod": "COD",
+          "paymentStatus": "COD_DUE",
+          "fulfilmentStatus": "PLACED",
+          "timeline": [
+            {
+              "at": "2026-10-20T06:16:01.613Z",
+              "event": "Order placed",
+              "by": "user_f62c2bc59fe6b3925b"
+            }
+          ],
+          "createdAt": "2026-10-20T06:16:01.613Z",
+          "updatedAt": "2026-10-20T06:16:01.613Z",
+          "totalDisplay": "₹10,394.00",
+          "subtotalDisplay": "₹10,394.00",
+          "discountDisplay": "₹0.00",
+          "shippingDisplay": "₹0.00"
+        }
+      },
+      "createdAt": "2026-10-20T06:16:01.614Z"
+    }
+  ],
+  "wishlists": [],
+  "files": []
+}
